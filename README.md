@@ -2,6 +2,9 @@
 
 These notes form a concise introductory course on Large Language models.
 
+The compiled version is available [here](https://harsha-jampana.github.io/llmmodelssurvey.github.io/).
+
+
 A Large Language Model (LLM) uses a structure called the "transformer" to understand and produce language similar to how humans do. This type of machine learning is trained on huge amounts of text, helping it to get a grip on language patterns and structures.
 
 Transformers, which were introduced in 2017, are a newer way to handle language data compared to the older recurrent neural networks. They're more efficient and are better at understanding the context of words in sentences.
