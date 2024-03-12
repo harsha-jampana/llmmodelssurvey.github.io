@@ -3,6 +3,7 @@ title: Large Language Models
 subtitle: Lecture notes
 author: Mounika Jampana
 simple_search: http://google.com/search
+theme: jekyll-theme-minimal
 description: Leture of Paper.
 name: notes
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
@@ -25,4 +26,3 @@ transfer:
   command: rsync
   settings: -av
   source: _site/
-theme: jekyll-theme-minimal
